@@ -34,8 +34,8 @@
 <table>
   <tr>
     <td><img  width="100%" 
-             src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhamgunjal09&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="Shubham Gunjal" /></td>
-    <td><img   width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shubhamgunjal09&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="Shubham Guinjal" /></td>
+             src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhamgunjal09&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="Prasad Govekar" /></td>
+    <td><img   width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shubhamgunjal09&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="Prasad Govekar" /></td>
 
   </tr>
  </table>
@@ -43,7 +43,7 @@
  <table>
   <tr>
     <td><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasad-govekar&theme=github_dark&show_icons=true" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-govekar&theme=github_dark&show_icons=true" alt="Shubham gunjal" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-govekar&theme=github_dark&show_icons=true" alt="Prasad govekar" /></td>
   </tr>
  </table>
  
