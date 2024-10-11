@@ -52,5 +52,5 @@
 
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <h3 align="center">Watch a snake-eating🐍 my contribution graph on Github</h3>
-  <kbd> <img align="cenetr" alt="Coding" width="900" src="https://github.com/shubhamgunjall09/shubhamgunjall09/blob/main/github-contribution-grid-snake-dark.svg"></kbd> 
+  <kbd> <img align="cenetr" alt="Coding" width="900" src="https://github.com/shubhamgunjal09/shubhamgunjal09/blob/main/github-contribution-grid-snake-dark.svg"></kbd> 
  </p>
