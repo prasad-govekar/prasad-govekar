@@ -1,8 +1,7 @@
-
-<h1 align="center">Hi 👋, I'm Prasad Ramesh Govekar</h1>
+<h1 align="center">Hi 👋, I'm Prasad Govekar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/shubhamgunjal09/shubhamgunjal09/blob/main/Shubham.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bankar-swapnil&label=Profile%20views&color=0e75b6&style=flat" alt="prasad govekare" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bankar-swapnil&label=Profile%20views&color=0e75b6&style=flat" alt="shubham gunjal" /> </p>
 
 - 🔭 I’m currently working on **React, Java, HTML, CSS, Bootstrap**
 
@@ -10,7 +9,7 @@
 
 - 💬 Ask me about **React, Java**
 
-- 📫 How to reach me **prasadgovekar12@gmail.com**
+- 📫 How to reach me **gunjalshubham09@gmail.com**
 
 - ⚡ Fun fact **Snakes can predict earthquakes.**
 
@@ -33,6 +32,27 @@
 
 <h3 align="left">Status:</h3>
 <table>
+  <tr>
+    <td><img  width="100%" 
+             src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhamgunjal09&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="Shubham Gunjal" /></td>
+    <td><img   width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shubhamgunjal09&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="Shubham Guinjal" /></td>
+
+  </tr>
+ </table>
+ 
+ <table>
+  <tr>
+    <td><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamgunjal09&theme=github_dark&show_icons=true" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamgunjal09&theme=github_dark&show_icons=true" alt="Shubham gunjal" /></td>
+  </tr>
+ </table>
+ 
+
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <h3 align="center">Watch a snake-eating🐍 my contribution graph on Github</h3>
+  <kbd> <img align="cenetr" alt="Coding" width="900" src="https://github.com/shubhamgunjal09/shubhamgunjal09/blob/main/github-contribution-grid-snake-dark.svg"></kbd> 
+ </p>
   <tr>
     <td><img  width="100%" 
              src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhamgunjal109&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="Prasad Govekar" /></td>
