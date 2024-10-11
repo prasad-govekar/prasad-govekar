@@ -42,8 +42,8 @@
  
  <table>
   <tr>
-    <td><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamgunjal09&theme=github_dark&show_icons=true" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamgunjal09&theme=github_dark&show_icons=true" alt="Shubham gunjal" /></td>
+    <td><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasad-govekar&theme=github_dark&show_icons=true" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-govekar&theme=github_dark&show_icons=true" alt="Shubham gunjal" /></td>
   </tr>
  </table>
  
