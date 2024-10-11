@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/shubham-gunjal-a3b757222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham Gunjal" height="30" width="40" /></a></td>
+    <td><a href="https://www.linkedin.com/in/prasad-govekar-89410a31b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham Gunjal" height="30" width="40" /></a></td>
   </tr>
  </table>
 
