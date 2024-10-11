@@ -35,7 +35,7 @@
   <tr>
     <td><img  width="100%" 
              src="https://github-readme-stats-sigma-five.vercel.app/api?username=prasad-govekar&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="Prasad Govekar" /></td>
-    <td><img   width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Shubhamgunjal109&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="Prasad Govekar" /></td>
+    <td><img   width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=prasad-govekar&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="Prasad Govekar" /></td>
 
   </tr>
  </table>
