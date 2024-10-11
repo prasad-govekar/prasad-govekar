@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/prasad-govekar-89410a31b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham Gunjal" height="30" width="40" /></a></td>
+    <td><a href="https://www.linkedin.com/in/prasad-govekar-89410a31b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prasad Govekar" height="30" width="40" /></a></td>
   </tr>
  </table>
 
@@ -35,8 +35,8 @@
 <table>
   <tr>
     <td><img  width="100%" 
-             src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhamgunjal09&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="Shubham Gunjal" /></td>
-    <td><img   width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shubhamgunjal09&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="Shubham Guinjal" /></td>
+             src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhamgunjal09&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="Prasad Govekar" /></td>
+    <td><img   width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shubhamgunjal09&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="Prasad Govekar" /></td>
 
   </tr>
  </table>
