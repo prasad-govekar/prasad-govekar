@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Java**
 
-- 📫 How to reach me **gunjalshubham09@gmail.com**
+- 📫 How to reach me **prasadgovekar12@gmail.com**
 
 - ⚡ Fun fact **Snakes can predict earthquakes.**
 
