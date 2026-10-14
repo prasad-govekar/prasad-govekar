@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasad Govekar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/prasad-govekar/prasad-govekar/blob/main/Prasad.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bankar-swapnil&label=Profile%20views&color=0e75b6&style=flat" alt="shubham gunjal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bankar-swapnil&label=Profile%20views&color=0e75b6&style=flat" alt="Prasad Govekar" /> </p>
 
 - 🔭 I’m currently working on **React, Java, HTML, CSS, Bootstrap**
 
