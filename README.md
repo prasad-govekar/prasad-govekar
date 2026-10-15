@@ -1,5 +1,5 @@
 Hi 👋, I'm Prasad Govekar
-<h3 align="center">A passionate Software Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding animation" width="350" src="https://github.com/prasad-govekar/prasad-govekar/blob/main/Prasad.gif?raw=true" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad-govekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 🔭 I'm currently working with React, Java, HTML, CSS, and Bootstrap
