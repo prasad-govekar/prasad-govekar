@@ -1,6 +1,17 @@
-👋 Hi, I'm Prasad Govekar
+<h1 align="center">👋 Hi, I'm Prasad Govekar</h1>
+
 <h3 align="center">📊 Data Analyst at Morningstar | Turning Data into Insights</h3>
-<p align="center"> <a href="https://www.linkedin.com/in/prasad-govekar-89410a31b/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:prasadgovekar12@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <img src="https://komarev.com/ghpvc/?username=prasad-govekar&style=for-the-badge&color=blueviolet" alt="Profile views" /> </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prasad-govekar-89410a31b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:prasadgovekar12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=prasad-govekar&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</p>
+
 💼 **About Me**
 
 <img align="right" alt="Developer working at a laptop" width="300" src="https://github.com/prasad-govekar/prasad-govekar/blob/main/Prasad.gif?raw=true" />
